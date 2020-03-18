@@ -1,0 +1,2 @@
+# Kouhan_comment
+Kouhanクラスのcommentパッケージ
